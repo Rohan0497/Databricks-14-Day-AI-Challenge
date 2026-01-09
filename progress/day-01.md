@@ -21,3 +21,4 @@ Looking forward to diving deeper into Spark, data processing, and real-world pip
 
 ## Screenshots
 
+![Day 1 screenshot](../assets/day-01/day01_SS.png)
