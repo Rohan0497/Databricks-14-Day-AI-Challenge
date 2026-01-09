@@ -9,4 +9,6 @@ This Challenge is Sponsored by DataBricks, CodeBasics and Indian Data Club.
 14 days of hands-on learning
 Understand Databricks concepts and workflows
 Community-driven learning and sharing in Socials
+
+
 𝗣𝗵𝗮𝘀𝗲 𝟮 : Project Phase (24th Jan – 30th Jan) By CodeBasics
