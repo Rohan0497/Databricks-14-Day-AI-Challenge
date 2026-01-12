@@ -49,6 +49,6 @@ display(revenue)
 
 ## Screenshots
 
-![Day 2 screenshot](../assets/day-03/ss1.png)
-![Day 2 screenshot](../assets/day-03/ss2.png)
-![Day 2 screenshot](../assets/day-03/ss3.png)
+![Day 3 screenshot](../assets/day-03/ss1.png)
+![Day 3 screenshot](../assets/day-03/ss2.png)
+![Day 3 screenshot](../assets/day-03/ss3.png)
