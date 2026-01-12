@@ -46,7 +46,7 @@ revenue = (events
 display(revenue)
 ```
 
-### Screenshots
+
 ## Screenshots
 
 ![Day 2 screenshot](../assets/day-03/ss1.png)
