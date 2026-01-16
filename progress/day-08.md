@@ -29,7 +29,7 @@ creating a Catalog/Schema structure, registering Delta tables, granting permissi
 ---
 
 #### Screenshots
-![Day 7 screenshot](../assets/day-07/ss1.png)
-![Day 7 screenshot](../assets/day-07/ss2.png)
-![Day 7 screenshot](../assets/day-07/ss3.png)
-![Day 7 screenshot](../assets/day-07/ss4.png)
+![Day 8 screenshot](../assets/day-08/ss1.png)
+![Day 8 screenshot](../assets/day-08/ss2.png)
+![Day 8 screenshot](../assets/day-08/ss3.png)
+
