@@ -29,5 +29,9 @@ Today I practiced using **Databricks SQL**: creating a SQL Warehouse, writing an
 
 ---
 
-
+#### Screenshots
+![Day 9 screenshot](../assets/day-09/ss1.png)
+![Day 9 screenshot](../assets/day-09/ss2.png)
+![Day 9 screenshot](../assets/day-09/ss3.png)
+![Day 9 screenshot](../assets/day-09/ss4.png)
 
