@@ -21,7 +21,7 @@ Today I practiced **basic statistics** in PySpark: descriptive summaries, a simp
 ---
 
 #### Screenshots
-![Day 10 screenshot](../assets/day-10/ss1.png)
-![Day 10 screenshot](../assets/day-10/ss2.png)
-![Day 10 screenshot](../assets/day-10/ss3.png)
-![Day 10 screenshot](../assets/day-10/ss4.png)
+![Day 11 screenshot](../assets/day-11/ss1.png)
+![Day 11 screenshot](../assets/day-11/ss2.png)
+![Day 11 screenshot](../assets/day-11/ss3.png)
+![Day 11 screenshot](../assets/day-11/ss4.png)
